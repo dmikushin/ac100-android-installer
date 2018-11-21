@@ -1,6 +1,8 @@
 # CyanogenMod 11 (Android) on Toshiba AC100
 
-For more information about CyanogenMod for AC100 see [project page](http://code.google.com/p/cm-paz00/).
+This is an untracked fork of [android-installer](https://github.com/ac100-ru/android-installer), due to the restrictions of LFS. 
+
+For more information about CyanogenMod for AC100 see [project page](https://paz00.ru/index.php/Android_4.0_installation).
 
 ## Installation
 
